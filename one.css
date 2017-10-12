@@ -25,13 +25,13 @@ nav ul{
     padding:1rem 0;
 }
 nav li{
-    font-size: 1.999rem;
+    font-size: 1.9rem;
     list-style-type: none;
 }
 nav li>a{
     display: block;
     text-decoration: none;
-    border-bottom: 0.2rem solid black;
+    border-bottom: none;
     padding: 0.2rem 2rem;
     color: #999;
 }
